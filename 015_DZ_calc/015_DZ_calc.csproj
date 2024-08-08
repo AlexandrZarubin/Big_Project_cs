@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D4E68F7E-0746-4731-9AF6-72F616E4D68B}</ProjectGuid>
+    <ProjectGuid>{3CCA9B4F-4006-456A-93CC-96D3C6D308C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_013_DZ</RootNamespace>
-    <AssemblyName>013_DZ</AssemblyName>
+    <RootNamespace>_015_DZ_calc</RootNamespace>
+    <AssemblyName>_015_DZ_calc</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
