@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3CCA9B4F-4006-456A-93CC-96D3C6D308C7}</ProjectGuid>
+    <ProjectGuid>{C2354E5F-79E7-43D5-941A-88AC406BC959}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_015_DZ_calc</RootNamespace>
-    <AssemblyName>015_DZ_calc</AssemblyName>
+    <RootNamespace>_016_DZ_sum_and_EVEN_and_ODD</RootNamespace>
+    <AssemblyName>016_DZ_sum_and_EVEN_and_ODD</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3CCA9B4F-4006-456A-93CC-96D3C6D308C7}</ProjectGuid>
+    <ProjectGuid>{FDA8523B-100B-4DF1-A07F-47E342EACA06}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_015_DZ_calc</RootNamespace>
-    <AssemblyName>015_DZ_calc</AssemblyName>
+    <RootNamespace>_016_while</RootNamespace>
+    <AssemblyName>016_while</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
