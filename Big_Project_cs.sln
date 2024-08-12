@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_BREAK", "020_BREAK\020_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_continue", "021_continue\021_continue.csproj", "{D5B72CB9-C6B6-451F-8535-4A1FD6EE04D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_NESTED_LOOPS", "022_NESTED_LOOPS\022_NESTED_LOOPS.csproj", "{C7C7FD6E-A8BE-4273-BFAC-76E96141385A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{D5B72CB9-C6B6-451F-8535-4A1FD6EE04D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5B72CB9-C6B6-451F-8535-4A1FD6EE04D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5B72CB9-C6B6-451F-8535-4A1FD6EE04D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C7FD6E-A8BE-4273-BFAC-76E96141385A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C7FD6E-A8BE-4273-BFAC-76E96141385A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C7FD6E-A8BE-4273-BFAC-76E96141385A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C7FD6E-A8BE-4273-BFAC-76E96141385A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
