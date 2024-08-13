@@ -61,7 +61,7 @@ namespace _022_NESTED_LOOPS
 			{
 				for(int j = 0;j < columns; j++)
 				{
-					Console.Write($"{myArray[i,j]} ");
+					Console.Write($"{myArray[i,j]}\t");
                 }
                 Console.WriteLine();
             }

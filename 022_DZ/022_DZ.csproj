@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C7C7FD6E-A8BE-4273-BFAC-76E96141385A}</ProjectGuid>
+    <ProjectGuid>{E7AF6F6A-8E2D-4BC7-8B97-31E34D941217}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_022_NESTED_LOOPS</RootNamespace>
-    <AssemblyName>022_NESTED_LOOPS</AssemblyName>
+    <RootNamespace>_022_DZ</RootNamespace>
+    <AssemblyName>022_DZ</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Game.cs" />
-    <Compile Include="gameInfo.cs" />
-    <Compile Include="GamesTypeEnum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
