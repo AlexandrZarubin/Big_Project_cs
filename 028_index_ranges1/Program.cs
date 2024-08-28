@@ -25,6 +25,7 @@
 			Console.WriteLine(str[1..3]);
 			Console.WriteLine(str[^2..]);
 			Console.WriteLine(str[0..6]);
+			Console.WriteLine("\n");
 
             foreach (var item in myArray[..4])
                 Console.WriteLine($"{item}");
