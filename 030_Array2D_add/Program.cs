@@ -25,7 +25,26 @@ namespace _030_Array2D_add
 
 			array2D3[0, 2] = 99;
 			Console.WriteLine(array2D3[0,2]);
-			Console.WriteLine(array2D3[10,5]);
-        }
+			//Console.WriteLine(array2D3[10,5]);
+
+			int[,]array2D4=new int[3, 3]
+				{
+					{1,2,3 },
+					{4,5,6 },
+					{7,8,9 }
+				};
+			int[,] array2D5 = new int[,]
+				{
+					{1,2,3 },
+					{4,5,6 },
+					{7,8,9 }
+				};
+			int[,] array2D6 =
+				{
+					{1,2,3 },
+					{4,5,6 },
+					{7,8,9 }
+				};
+		}
 	}
 }
