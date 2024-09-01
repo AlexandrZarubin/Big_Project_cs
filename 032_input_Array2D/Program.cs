@@ -24,7 +24,7 @@ namespace _032_input_Array2D
 			{
 				for (int j = 0; j < myArray.GetLength(1); j++)
 				{
-					Console.WriteLine("i: " + i + " j: " + myArray[i, j]);
+					Console.WriteLine("i: " + i + " j: " + j);
 					myArray[i, j] = Console.ReadLine();
 				}
 
